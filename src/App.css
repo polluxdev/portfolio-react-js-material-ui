@@ -31,3 +31,17 @@
     transform: rotate(360deg);
   }
 }
+
+.MuiToolbar-root-39 > a {
+  text-decoration: none;
+}
+
+.MuiToolbar-root-39 > a > h5 {
+  color: #ffffff;
+}
+
+.MuiToolbar-root-39 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
