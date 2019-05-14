@@ -45,3 +45,7 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.MuiAppBar-colorPrimary-10 {
+  padding: 10px;
+}
